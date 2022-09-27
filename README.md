@@ -89,6 +89,8 @@ There were 6 different models used to perform this analysis. Of those 6 the Bala
 
 ### Recommendations
 
+I personally don't think there would be a better way to perform this analysis. I beleive that using the 6 different models provided us with ample results and ample variance in accuracy to prove that the Easy Enemsble Classifier clearly is the best fit for the analysis provided over 90% accuracy almost 10% percision and over 90% recall. However if we could use a larger dataset it might reduce the variation in the values however it is possible using a to large dataset might skew the results more then we'd prefer.
+
 
 
 
