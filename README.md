@@ -15,6 +15,7 @@ The formula for Recall = TP/(TP + FN).
 ### Deliverable 1
 
 ![image1](https://github.com/Ajsforlife/Credit_Risk_Analysis/blob/main/credit_analysis_pictures/deliverable%201-1.png)
+
 Naive Random Oversampling (Picture Above) provided the following results:
 
 -Accuracy: .6572
@@ -24,6 +25,7 @@ Naive Random Oversampling (Picture Above) provided the following results:
 -Recall: .69
 
 ![image2](https://github.com/Ajsforlife/Credit_Risk_Analysis/blob/main/credit_analysis_pictures/deliverable%201-2.png)
+
 SMOTE Oversampling (Picture Above) provided the following results:
 
 -Accuracy: .6478
@@ -33,6 +35,7 @@ SMOTE Oversampling (Picture Above) provided the following results:
 -Recall: .61
 
 ![image3](https://github.com/Ajsforlife/Credit_Risk_Analysis/blob/main/credit_analysis_pictures/deliverable1-3.png)
+
 ClusterCentroids Undersampling (Picture Above) provided the following results:
 
 -Accuracy: .5444
@@ -55,6 +58,7 @@ SMOTE Oversampling (Picture Above) provided the following results:
 ### Deliverable 3
 
 ![image5](https://github.com/Ajsforlife/Credit_Risk_Analysis/blob/main/credit_analysis_pictures/deliverable3-1.png)
+
 Balanced Random Forest Classifer (Picture Above) provided the following results:
 
 -Accuracy: .7885
@@ -67,6 +71,7 @@ Featured list in descending order:
 ![iamge6](https://github.com/Ajsforlife/Credit_Risk_Analysis/blob/main/credit_analysis_pictures/deliverable3-2.png)
 
 ![image7](https://github.com/Ajsforlife/Credit_Risk_Analysis/blob/main/credit_analysis_pictures/deliverable%203-3.png)
+
 Easy Ensemble AdaBoost Classifier (Picture Above) provided the following results:
 
 -Accuracy: .9317
