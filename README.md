@@ -55,10 +55,25 @@ SMOTE Oversampling (Picture Above) provided the following results:
 ### Deliverable 3
 
 ![image5](https://github.com/Ajsforlife/Credit_Risk_Analysis/blob/main/credit_analysis_pictures/deliverable3-1.png)
+Balanced Random Forest Classifer (Picture Above) provided the following results:
 
+-Accuracy: .7885
+
+-Precision: .03
+
+-Recall: .70
+
+Featured list in descending order:
 ![iamge6](https://github.com/Ajsforlife/Credit_Risk_Analysis/blob/main/credit_analysis_pictures/deliverable3-2.png)
 
 ![image7](https://github.com/Ajsforlife/Credit_Risk_Analysis/blob/main/credit_analysis_pictures/deliverable%203-3.png)
+Easy Ensemble AdaBoost Classifier (Picture Above) provided the following results:
+
+-Accuracy: .9317
+
+-Precision: .09
+
+-Recall: .92
 
 ## Summary
 
