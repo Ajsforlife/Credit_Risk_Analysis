@@ -85,8 +85,11 @@ Easy Ensemble AdaBoost Classifier (Picture Above) provided the following results
 
 ### Synopsis
 
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+There were 6 different models used to perform this analysis. Of those 6 the BalancedRandomForestClassifier and EasyEnsembleClassifier algorithms performed the best with drastically better accuracy and percision scores. The SMOTEENN model performed somewhat decently with higher accuracy and recall scores compared to the undersampling, oversampling and SMOTE models. If I were to use one model in particular it would be the Easy Ensemble Classifier model solely because it returned the best results with ease of use. Where the balanced random forest classifier provided better then average results but provide a little more difficult to use based on versions of the kits used and depreciation of those kits in newer version.
 
 ### Recommendations
+
+
+
 
 
