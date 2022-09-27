@@ -16,20 +16,29 @@ The formula for Recall = TP/(TP + FN).
 
 ![image1](https://github.com/Ajsforlife/Credit_Risk_Analysis/blob/main/credit_analysis_pictures/deliverable%201-1.png)
 Naive Random Oversampling (Picture Above) provided the following results:
+
 -Accuracy: .6572
+
 -Precision: .01
+
 -Recall: .69
 
 ![image2](https://github.com/Ajsforlife/Credit_Risk_Analysis/blob/main/credit_analysis_pictures/deliverable%201-2.png)
 SMOTE Oversampling (Picture Above) provided the following results:
+
 -Accuracy: .6478
+
 -Precision: .01
+
 -Recall: .61
 
 ![image3](https://github.com/Ajsforlife/Credit_Risk_Analysis/blob/main/credit_analysis_pictures/deliverable1-3.png)
 ClusterCentroids Undersampling (Picture Above) provided the following results:
+
 -Accuracy: .5444
+
 -Precision: .01
+
 -Recall: .69
 
 ### Deliverable 2
