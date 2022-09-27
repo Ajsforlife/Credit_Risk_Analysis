@@ -47,7 +47,8 @@ ClusterCentroids Undersampling (Picture Above) provided the following results:
 ### Deliverable 2
 
 ![image4](https://github.com/Ajsforlife/Credit_Risk_Analysis/blob/main/credit_analysis_pictures/deliverable2.png)
-SMOTE Oversampling (Picture Above) provided the following results:
+
+SMOTEENN Oversampling (Picture Above) provided the following results:
 
 -Accuracy: .6706
 
